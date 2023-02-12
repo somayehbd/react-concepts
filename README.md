@@ -1,5 +1,8 @@
 # React Concepts
 
+## Request / Response
+![](./assets/request-response.png)
+
 ## Data Binding
 ![](./assets/react-data-binding-inside-component.png)
 
@@ -10,7 +13,7 @@
 ### Using Redux
 ![](./assets/component-communication-redux.png)
 
-### Identity Provider (IDP)
+## Identity Provider (IDP)
 ![](./assets/idp-sso.png)
 
 ## Functions
