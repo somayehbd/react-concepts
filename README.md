@@ -5,10 +5,13 @@
 
 ## Components Communication
 ### Using props
-![](assets/component-communication-props.png)
+![](./assets/component-communication-props.png)
 
 ### Using Redux
-![](assets/component-communication-redux.png)
+![](./assets/component-communication-redux.png)
+
+### Identity Provider (IDP)
+![](./assets/idp-sso.png)
 
 ## Functions
 ### Normal Function
