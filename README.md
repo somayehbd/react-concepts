@@ -3,6 +3,9 @@
 ## Request / Response
 ![](./assets/request-response.png)
 
+## Request / Response Flow
+![](./assets/request-response-flow.png)
+
 ## Data Binding
 ![](./assets/react-data-binding-inside-component.png)
 
